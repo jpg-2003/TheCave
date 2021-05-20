@@ -1,0 +1,7 @@
+C:\Users\sm170\source\repos\Eksamens projekt - 2021\bin\Debug\Eksamens projekt - 2021.exe.config
+C:\Users\sm170\source\repos\Eksamens projekt - 2021\bin\Debug\Eksamens projekt - 2021.exe
+C:\Users\sm170\source\repos\Eksamens projekt - 2021\bin\Debug\Eksamens projekt - 2021.pdb
+C:\Users\sm170\source\repos\Eksamens projekt - 2021\obj\Debug\Eksamens projekt - 2021.csprojAssemblyReference.cache
+C:\Users\sm170\source\repos\Eksamens projekt - 2021\obj\Debug\Eksamens projekt - 2021.csproj.CoreCompileInputs.cache
+C:\Users\sm170\source\repos\Eksamens projekt - 2021\obj\Debug\Eksamens projekt - 2021.exe
+C:\Users\sm170\source\repos\Eksamens projekt - 2021\obj\Debug\Eksamens projekt - 2021.pdb
